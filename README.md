@@ -1,2 +1,2 @@
 # centralgit
-code of instagramc
+code of instagramc from github 
