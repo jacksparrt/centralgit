@@ -6,4 +6,5 @@
   margin: 50px auto;
   padding: 100px;
   padding : 220px;
+  margin : 60px ;
 }
